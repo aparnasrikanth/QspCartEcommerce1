@@ -7,5 +7,9 @@ public class AddToCartTest1 {
 	public void addToCartTest() {
 		System.out.println("product added");
 	}
+@Test
+public void removeFromCart() {
+	System.out.println("product removed");
+}
 
 }
